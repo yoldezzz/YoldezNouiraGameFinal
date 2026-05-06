@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Renamed from AppTheme to match AndroidManifest.xml -->
+    <style name="Theme.YoldezNouiraProject" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/mediterranean_blue</item>
+    </style>
+</resources>
